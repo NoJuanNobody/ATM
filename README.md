@@ -16,6 +16,7 @@
 
 ####Verbs
 * withdraw() or debt()
+	* overDraft could be called inside debt as a private method 
 * deposit() or credit()
 * transfers()
 * changeStatus()
@@ -28,7 +29,7 @@
 * createAccountNum()
 	* remember to look into how many numbers are considered unique for an account number in finance
 * format$
-* format%
+* format%`
  	
 
 
